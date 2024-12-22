@@ -1,0 +1,26 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.container{
+    display: block;
+    padding-bottom: 10px 0;
+}
+
+.red{
+    height: 30px;
+    width: 250px;
+    background-color: red;
+}
+.green{
+    height: 30px;
+    width: 250px;
+    background-color: red;
+}
+
+.blue{
+    height: 30px;
+    width: 250px;
+    background-color: red;
+}
