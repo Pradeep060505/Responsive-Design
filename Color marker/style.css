@@ -11,7 +11,7 @@ h1 {
 .marker {
   height: 25px;
   width: 200px;
-  margin: 10px auto;
+  margin: 15px auto;
 }
 
 .red {
@@ -36,16 +36,17 @@ h1 {
   box-shadow: 0 0 20px 0 blue;
 }
 .cap{
-    width: 60px;
+    width: 50px;
     height: 25px;
 }
 
-.cap , .sleeve{
+.cap , .sleeve,.tip{
     display: inline-block;
 }
 .sleeve{
     height: 25px;
-    width: 110px;
+    width: 90px;
     background-color: rgba(255, 255, 255, 0.5);
-    border-left:10px double rgba(0,0,00.75)
+    border-left:10px double rgb(22, 22, 34)
 }
+
