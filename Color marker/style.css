@@ -35,3 +35,17 @@ h1 {
   );
   box-shadow: 0 0 20px 0 blue;
 }
+.cap{
+    width: 60px;
+    height: 25px;
+}
+
+.cap , .sleeve{
+    display: inline-block;
+}
+.sleeve{
+    height: 25px;
+    width: 110px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-left:10px double rgba(0,0,00.75)
+}
